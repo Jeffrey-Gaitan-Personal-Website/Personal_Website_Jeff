@@ -1,0 +1,51 @@
+.Main_Name {
+    font: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.Main_Nav {
+    background-color: rgb(156, 185, 227);
+    display: flex;
+    justify-content: space-around;
+    padding: 1em;
+}
+
+.nav_buttons {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 1.5%;
+    color: black;
+    text-decoration: black;
+    text-decoration: underline;
+    text-decoration-thickness: 10%;
+}
+
+.Home_Title {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 60px;
+    text-decoration: underline;
+}
+
+.Home_Body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: azure;
+}
+
+.Home_Quote {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: wavy;
+}
+
+.Home_Mission {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.home_image {
+    align-items: center;
+    margin-left: 665px;
+    max-width: 100%;
+}
