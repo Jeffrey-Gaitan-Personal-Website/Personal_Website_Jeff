@@ -1,0 +1,97 @@
+.Main_Name {
+    font: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.Main_Nav {
+    background-color: rgb(156, 185, 227);
+    display: flex;
+    justify-content: space-around;
+    padding: 1em;
+}
+
+.nav_buttons {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 1.5%;
+    color: black;
+    text-decoration: black;
+    text-decoration: underline;
+    text-decoration-thickness: 10%;
+}
+
+.Port_Title {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.Work_Style {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+.Sig_Sync {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    text-align: left;
+}
+
+.Sig_sync_text {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    overflow-wrap: normal;
+    max-width: 600px;
+    background-color: rgba(181, 213, 240, 0.2);
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.Proxmox {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    text-align: left;
+}
+
+.Proxmox_Text {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    overflow-wrap: break-word;
+    max-width: 600px;
+    background-color: rgba(181, 213, 240, 0.2);
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.Apple {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    text-align: left;
+}
+
+.Apple_Text {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    overflow-wrap: break-word;
+    max-width: 600px;
+    background-color: rgba(181, 213, 240, 0.2);
+    padding: 10px;
+    border-radius: 20px;
+}
+
+footer {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 10px;
+}
+
+.prox_image {
+    width: 300px;
+    padding: 10px;
+}
+
+.apple_image {
+    width: 400px;
+    padding: 10px;
+}

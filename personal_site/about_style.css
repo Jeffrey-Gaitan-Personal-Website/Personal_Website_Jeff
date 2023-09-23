@@ -1,0 +1,42 @@
+.Main_Name {
+    font: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.Main_Nav {
+    background-color: rgb(156, 185, 227);
+    display: flex;
+    justify-content: space-around;
+    padding: 1em;
+}
+
+.nav_buttons {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 1.5%;
+    color: black;
+    text-decoration: black;
+    text-decoration: underline;
+    text-decoration-thickness: 10%;
+}
+
+.About_Main {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.Main_About {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgba(68, 211, 144, .2);
+    padding: 1rem;
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.IT_Header {
+    font-size: 40px;
+}
+
+.Personal_Header {
+    font-size: 40px;
+}
