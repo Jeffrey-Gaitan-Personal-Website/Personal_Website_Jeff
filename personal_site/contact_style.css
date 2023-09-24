@@ -1,0 +1,41 @@
+.Main_Name {
+    font: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.Main_Nav {
+    background-color: rgb(156, 185, 227);
+    display: flex;
+    justify-content: space-around;
+    padding: 1em;
+}
+
+.nav_buttons:hover {
+    background-color: rgba(255, 255, 255, 0.85);
+    text-decoration-color: yellow;
+}
+
+.nav_buttons {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 1.5%;
+    color: black;
+    text-decoration: black;
+    text-decoration: underline;
+    border-radius: 20px;
+    text-decoration-thickness: 10%;
+}
+
+.about_header {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.form_section {
+    display: grid;
+    justify-content: center;
+    background-color: rgba(195, 243, 217, 0.55);
+    padding: 5%;
+    border-radius: 20px;
+    margin-right: 250px;
+    margin-left: 250px;
+}
