@@ -10,12 +10,18 @@
     padding: 1em;
 }
 
+.nav_buttons:hover {
+    background-color: rgba(255, 255, 255, 0.85);
+    text-decoration-color: yellow;
+}
+
 .nav_buttons {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     padding: 1.5%;
     color: black;
     text-decoration: black;
     text-decoration: underline;
+    border-radius: 20px;
     text-decoration-thickness: 10%;
 }
 
